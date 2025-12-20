@@ -3,11 +3,6 @@
   "value": {
     "Status": 1,
     "AffectedSegments": [],
-    "Message": [
-      {
-        "Content": "23:00-CCL-Planned Circle Line Early Closure and Late Opening. Train services will end earlier at 2300hrs tonight (19 Dec 2025, Fri) and commence later at 0900hrs tomorrow (20 Dec 2025, Sat). Please use alternative MRT lines and bus services.",
-        "CreatedDate": "2025-12-19 20:01:14"
-      }
-    ]
+    "Message": []
   }
 }
