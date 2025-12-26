@@ -1,22 +1,8 @@
 {
   "odata.metadata": "https://datamall2.mytransport.sg/ltaodataservice/$metadata#TrainServicesAlerts",
   "value": {
-    "Status": 2,
-    "AffectedSegments": [
-      {
-        "Line": "NSL",
-        "Direction": "Both",
-        "Stations": "NS9,NS10,NS11,NS12,NS13",
-        "FreePublicBus": "NS9,NS10,NS11,NS12,NS13",
-        "FreeMRTShuttle": "",
-        "MRTShuttleDirection": ""
-      }
-    ],
-    "Message": [
-      {
-        "Content": "07:10-NSL-Major delay affecting train service between Ang Mo Kio and Woodlands stations (towards Jurong East). Commuters can continue to use the train service or consider free bus services at affected stations.",
-        "CreatedDate": "2025-12-26 07:35:46"
-      }
-    ]
+    "Status": 1,
+    "AffectedSegments": [],
+    "Message": []
   }
 }
