@@ -1,22 +1,9 @@
 {
   "odata.metadata": "https://datamall2.mytransport.sg/ltaodataservice/$metadata#TrainServicesAlerts",
   "value": {
-    "Status": 2,
-    "AffectedSegments": [
-      {
-        "Line": "TEL",
-        "Direction": "Both",
-        "Stations": "TE9,TE11",
-        "FreePublicBus": "TE9,TE11,TE12,TE13,TE14",
-        "FreeMRTShuttle": "TE9,TE11,TE12,TE13,TE14",
-        "MRTShuttleDirection": "Both"
-      }
-    ],
+    "Status": 1,
+    "AffectedSegments": [],
     "Message": [
-      {
-        "Content": "10:48-TEL-Minor delay. Train services have resumed between Caldecott and Orchard stations but trains will be travelling slower. Commuters can continue to use the train service or consider free bus services for this sector.",
-        "CreatedDate": "2026-05-03 10:57:32"
-      },
       {
         "Content": "05:00-SK-Planned Service Adjustment. From 19 Apr to 18 Oct 2026, the Sengkang West LRT Inner Loop (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will be closed. Commuters can continue to use the Sengkang West LRT Outer Loop (i.e. direction of STC Sengkang towards SW8 Renjong), peak-hours shuttle bus services, or regular bus services.",
         "CreatedDate": "2026-04-18 11:50:27"
