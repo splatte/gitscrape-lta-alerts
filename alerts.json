@@ -1,22 +1,9 @@
 {
   "odata.metadata": "https://datamall2.mytransport.sg/ltaodataservice/$metadata#TrainServicesAlerts",
   "value": {
-    "Status": 2,
-    "AffectedSegments": [
-      {
-        "Line": "CCL",
-        "Direction": "Both",
-        "Stations": "CC28,CC27,CC26,CC25,CC24",
-        "FreePublicBus": "CC29,CC28,CC27,CC26,CC25,CC24,CC23,CC22",
-        "FreeMRTShuttle": "",
-        "MRTShuttleDirection": ""
-      }
-    ],
+    "Status": 1,
+    "AffectedSegments": [],
     "Message": [
-      {
-        "Content": "09:00-CCL-Minor delay affecting train services between Telok Blangah and Kent Ridge stations (both directions). Commuters can continue to use the train service or consider free bus services at affected stations.",
-        "CreatedDate": "2026-06-20 09:07:48"
-      },
       {
         "Content": "20/06/2026 07:48-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
         "CreatedDate": "2026-06-20 07:49:21"
