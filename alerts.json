@@ -5,8 +5,12 @@
     "AffectedSegments": [],
     "Message": [
       {
-        "Content": "14/07/2026 06:15-We are currently experiencing technical issues with displaying bus arrival timings. However, bus services are operating as normal. We apologise for the inconvenience caused and are working to resolve this. Thank you for your patience",
-        "CreatedDate": "2026-07-14 06:29:52"
+        "Content": "23:30-DTL-Planned Service Adjustments. From 10 Jul to 5 Sep 2026, Downtown Line services will end at 11.30pm on Friday nights and commence at 8.30am on Saturday mornings. Please use alternative MRT lines and bus services.",
+        "CreatedDate": "2026-07-09 20:00:20"
+      },
+      {
+        "Content": "05:00-SK-Planned Service Adjustment. From 19 Apr to 18 Oct 2026, the Sengkang West LRT Inner Loop (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will be closed. Commuters can continue to use the Sengkang West LRT Outer Loop (i.e. direction of STC Sengkang towards SW8 Renjong), peak-hours shuttle bus services, or regular bus services.",
+        "CreatedDate": "2026-04-18 11:50:27"
       }
     ]
   }
