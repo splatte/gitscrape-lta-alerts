@@ -1,9 +1,22 @@
 {
   "odata.metadata": "https://datamall2.mytransport.sg/ltaodataservice/$metadata#TrainServicesAlerts",
   "value": {
-    "Status": 1,
-    "AffectedSegments": [],
+    "Status": 2,
+    "AffectedSegments": [
+      {
+        "Line": "DTL",
+        "Direction": "Bukit Panjang",
+        "Stations": "DT21,DT20",
+        "FreePublicBus": "DT22,DT21,DT20,DT19,DT18,DT17,DT15,DT16,DT14",
+        "FreeMRTShuttle": "",
+        "MRTShuttleDirection": ""
+      }
+    ],
     "Message": [
+      {
+        "Content": "21:15-DTL-Minor delay affecting train services between Fort Canning and Bencoolen stations (towards Bukit Panjang). Commuters can continue to use the train service, expect longer waiting and travelling time.",
+        "CreatedDate": "2026-09-29 21:36:25"
+      },
       {
         "Content": "29/09/2026 10:00-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
         "CreatedDate": "2026-09-29 10:01:00"
