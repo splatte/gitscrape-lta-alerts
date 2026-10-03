@@ -3,11 +3,6 @@
   "value": {
     "Status": 1,
     "AffectedSegments": [],
-    "Message": [
-      {
-        "Content": "05:00-SK-Planned Service Adjustments. Sengkang West LRT Inner Loop service (i.e. direction of STC Sengkang towards SW1 Cheng Lim) will resume on 4 Oct 2026. Peak-hours shuttle bus services will end after 2 Oct 2026.",
-        "CreatedDate": "2026-10-02 16:30:12"
-      }
-    ]
+    "Message": []
   }
 }
