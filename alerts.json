@@ -3,6 +3,15 @@
   "value": {
     "Status": 1,
     "AffectedSegments": [],
-    "Message": []
+    "Message": [
+      {
+        "Content": "05/10/2026 09:42-Bus services 170 and 170X have been diverted from Woodlands Road to ply along Woodlands Ave 3 and Woodlands Centre Road in the Woodlands Direction, due to heavy traffic entering Woodlands Checkpoint.",
+        "CreatedDate": "2026-10-05 09:43:39"
+      },
+      {
+        "Content": "05/10/2026 08:49-Bus services 243G and 258 are diverted due to an accident on Jurong West Street 61 (towards Jurong West Street 63) before the junction with Jurong West Street 62.",
+        "CreatedDate": "2026-10-05 08:50:07"
+      }
+    ]
   }
 }
