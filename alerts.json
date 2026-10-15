@@ -3,6 +3,11 @@
   "value": {
     "Status": 1,
     "AffectedSegments": [],
-    "Message": []
+    "Message": [
+      {
+        "Content": "15/10/2026 08:28-Bus service 252 has been diverted due to an accident along International Road (towards Corporation Road), at junction with Kian Teck Road.",
+        "CreatedDate": "2026-10-15 08:35:13"
+      }
+    ]
   }
 }
